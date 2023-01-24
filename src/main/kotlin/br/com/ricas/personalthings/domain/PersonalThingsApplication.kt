@@ -1,4 +1,4 @@
-package br.com.ricas.personalthings
+package br.com.ricas.personalthings.domain
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

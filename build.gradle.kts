@@ -27,6 +27,9 @@ dependencies {
 	runtimeOnly("org.postgresql:postgresql")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("org.springframework.kafka:spring-kafka-test")
+	testImplementation ("io.mockk:mockk:1.9.3")
+	testImplementation(kotlin("test"))
+
 }
 
 tasks.withType<KotlinCompile> {

@@ -1,4 +1,4 @@
-package br.com.ricas.personalthings
+package br.com.ricas.personalthings.domain
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
